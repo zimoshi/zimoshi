@@ -1,2 +1,9 @@
-Hi, I’m @zimoshi
-![E8E8F69F-22B5-4F03-AF30-6D16582A3D17](https://github.com/zimoshi/zimoshi/assets/153401092/1cdf686b-8fc9-491d-b411-2dfdccb3c254)
+Hi, I’m @zimoshi     
+
+accounts(other websites):                     
+<li>             
+  <b>Scratch:</b> <a href="scratch.mit.edu/users/scratchycattycat">Scratch Link</a>
+</li>                        
+<li>             
+  <b>Trinket:</b> <a href="oysemsg1998.trinket.io">Trinket Link</a>
+</li>                        
