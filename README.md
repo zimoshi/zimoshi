@@ -7,7 +7,7 @@ accounts(other websites):                       
 
 </li>                          
 <li>               
-  <b>Trinket:</b> <a href="https://oysemsg1998.trinket.io">Trinket Link</a>
+  <b>Trinket:</b> <a href="https://oyesmsg1998.trinket.io">Trinket Link</a>
 
 
 </li>                            
