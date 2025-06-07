@@ -2,12 +2,12 @@ Hi, I’m <a href="https://github.com/zimoshi/">@zimoshi<a>       
 ---
 Connect with me:                       
 <li>               
-  <a href="https://scratch.mit.edu/users/scratchycattycat"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA-PDaXrdNiOl8gS9hnwTxEmO2IG6tS9WlGg&s" alt="Scratch"></a></img> Scratch
+  <a href="https://scratch.mit.edu/users/scratchycattycat"><img width=100 height=100 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA-PDaXrdNiOl8gS9hnwTxEmO2IG6tS9WlGg&s" alt="Scratch"></a></img> Scratch
 
 
 </li>                          
 <li>               
-  <a href="https://oyesmsg1998.trinket.io"><img src="https://trinket-app-assets.trinket.io/logo/PNG/stacked/trinket-logo-notag-white.png"></img></a> Trinket
+  <a href="https://oyesmsg1998.trinket.io"><img width=100 height=80 src="https://trinket-app-assets.trinket.io/logo/PNG/stacked/trinket-logo-notag-white.png"></img></a> Trinket
 
 
 </li>                            
